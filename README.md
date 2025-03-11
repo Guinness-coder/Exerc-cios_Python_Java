@@ -1,2 +1,2 @@
-# Exerc-cios_Python_Java
+# Exercícios_Python_Java
 Exercícios propostos pelo Professor 
